@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Overpriced Bean Water"
+        },
+        {
+            "id": 2,
+            "name" : "Cocoa Numbs"
+        },
+        {
+            "id": 3,
+            "name" : "Cocoa Noms"
+        }
+    ],
+    "sizes": [
+        {
+            "id": 1,
+            "size": "Mini"
+        }
+    ],
+    "orders": [
+        {
+            "id": 1,
+            "customerName": "Trevan",
+            "quantity": 2,
+            "productId": 1,
+            "sizeId": 1
+        }
+    ]
+}
